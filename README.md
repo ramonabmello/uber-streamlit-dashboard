@@ -10,15 +10,12 @@ https://s3-us-west-2.amazonaws.com/streamlit-demo-data/uber-raw-data-sep14.csv.g
 2. Numpy
 3. Streamlit
 
-### Desenvolvimento da aplicação:
-PyCharm
-
 ### Como instalar o Streamlit e rodar a aplicação:
 No Terminal, instalar o Streamlit:
 ```console
-pip install streamlit
+$ pip install streamlit
 ```
-Após a instalação:
+Após a instalação, rodar a aplicação:
 ```console
-streamlit run uber.py
+$ python -m streamlit run uber.py
 ```
