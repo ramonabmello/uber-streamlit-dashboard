@@ -13,7 +13,7 @@ https://s3-us-west-2.amazonaws.com/streamlit-demo-data/uber-raw-data-sep14.csv.g
 ### Como instalar o Streamlit e rodar a aplicação:
 No Terminal, instalar o Streamlit:
 ```console
-$ pip install streamlit
+$ python -m pip install streamlit
 ```
 Após a instalação, rodar a aplicação:
 ```console
